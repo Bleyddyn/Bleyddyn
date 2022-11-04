@@ -1,4 +1,7 @@
-### Hi there 👋
+# Other Locations
+
+## Mastodon @Bleyddyn@mastodon.nz
+## [Website](http://bleyddyn.github.io/)
 
 <!--
 **Bleyddyn/Bleyddyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
